@@ -3,7 +3,7 @@
 
 A secure encryption application built with Qt that implements a custom advanced encryption algorithm. The application provides a user-friendly graphical interface for encrypting and decrypting text using a sophisticated block cipher implementation.
 
-![Image](https://github.com/user-attachments/assets/36ec931b-eb3d-41e3-b198-f1f54778ea8c)
+![Image](https://github.com/user-attachments/assets/1d2776dc-c40f-48e0-a1a4-db0f036ca407)
 
 
 
